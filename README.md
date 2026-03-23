@@ -2,39 +2,38 @@
 
 ---
 
-building systems | learning in public
+## building systems
+learning in public
 
 ---
 
-I’m working across:
-cybersecurity  
-AI agents  
-local-first tools  
+Working across:
+- cybersecurity  
+- AI agents  
+- local-first tools  
 
-Using AI as part of the workflow to move faster, test ideas, and improve how I build.
+Using AI to move faster, test ideas, and improve how I build.
 
 ---
 
-## Projects
+## Selected Work
 
-FIM Bot  
-file integrity monitoring with hashing, validation, and local analysis  
+**FIM Bot**  
+File integrity monitoring with hashing, validation, and local analysis  
 
-IDS Bot  
-network monitoring using Scapy (SYN / ICMP / DNS detection)  
+**IDS Bot**  
+Network monitoring using Scapy (SYN / ICMP / DNS detection)  
 
-Audio Agent  
-audio → transcript → structured output (local pipeline)  
+**Audio Agent**  
+Audio → transcript → structured output (local pipeline)  
 
 ---
 
 ## Direction
 
-AI-supported security tools  
-autonomous local agents  
-practical systems that actually work  
-
----
+- AI-supported security tools  
+- autonomous local agents  
+- practical systems that work  
 
 ## Stack
 
