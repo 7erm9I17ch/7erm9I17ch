@@ -1,19 +1,18 @@
-# 
-#  ██╗     ███████╗██╗   ██╗████████╗ ██████╗ ███╗   ██╗
-#  ██║     ██╔════╝╚██╗ ██╔╝╚══██╔══╝██╔═══██╗████╗  ██║
-#  ██║     █████╗   ╚████╔╝    ██║   ██║   ██║██╔██╗ ██║
-#  ██║     ██╔══╝    ╚██╔╝     ██║   ██║   ██║██║╚██╗██║
-#  ███████╗███████╗   ██║      ██║   ╚██████╔╝██║ ╚████║
-#  ╚══════╝╚══════╝   ╚═╝      ╚═╝    ╚═════╝ ╚═╝  ╚═══╝
-#
-#  building systems | learning in public
+██╗     ███████╗██╗   ██╗████████╗ ██████╗ ███╗   ██╗
+██║     ██╔════╝╚██╗ ██╔╝╚══██╔══╝██╔═══██╗████╗  ██║
+██║     █████╗   ╚████╔╝    ██║   ██║   ██║██╔██╗ ██║
+██║     ██╔══╝    ╚██╔╝     ██║   ██║   ██║██║╚██╗██║
+███████╗███████╗   ██║      ██║   ╚██████╔╝██║ ╚████║
+╚══════╝╚══════╝   ╚═╝      ╚═╝    ╚═════╝ ╚═╝  ╚═══╝
+
+building systems | learning in public
 
 ---
 
-I’m building at the intersection of:
-- cybersecurity  
-- AI agents  
-- local-first tools  
+I’m working across:
+cybersecurity  
+AI agents  
+local-first tools  
 
 Using AI as part of the workflow to move faster, test ideas, and improve how I build.
 
@@ -21,14 +20,14 @@ Using AI as part of the workflow to move faster, test ideas, and improve how I b
 
 ## Projects
 
-**FIM Bot**  
-File integrity monitoring with hashing + validation + local analysis
+FIM Bot  
+file integrity monitoring with hashing, validation, and local analysis  
 
-**IDS Bot**  
-Network monitoring using Scapy (SYN / ICMP / DNS detection)
+IDS Bot  
+network monitoring using Scapy (SYN / ICMP / DNS detection)  
 
-**Audio Agent**  
-Audio → transcript → structured output (fully local pipeline)
+Audio Agent  
+audio → transcript → structured output (local pipeline)  
 
 ---
 
@@ -36,7 +35,7 @@ Audio → transcript → structured output (fully local pipeline)
 
 AI-supported security tools  
 autonomous local agents  
-practical systems that actually work
+practical systems that actually work  
 
 ---
 
