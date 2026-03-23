@@ -1,8 +1,4 @@
-_                _
-| |    ___  _   | | ___  ___ ___
-| |   / _ | | | | / _ / / |
-| || () | || | ||  /_ _ \
-|_/ _,|___||/_/
+Hello, hello...
 
 building systems | learning in public
 
