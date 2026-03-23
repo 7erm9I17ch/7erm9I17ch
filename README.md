@@ -2,7 +2,7 @@ Hello, hello. I’m Leyton
 
 I’m currently building and experimenting with projects around cybersecurity, AI agents, and local-first tools.
 
-This isn’t about polished products yet — the focus is on learning by building real, working systems. I also actively use AI as part of my workflow to accelerate development, test ideas, and improve how I approach problems.
+This isn’t about polished products yet; the focus is on learning by building real, working systems. I also actively use AI as part of my workflow to accelerate development, test ideas, and improve how I approach problems.
 
 ---
 
